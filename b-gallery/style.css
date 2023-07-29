@@ -110,7 +110,7 @@ text-align: center;
 }
 
 .person-card-container {
-border: 1px solid red;  
+/* border: 1px solid red;   */
 width: 225px;
 height: 339px;
 padding: 10px;
