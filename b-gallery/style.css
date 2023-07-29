@@ -179,7 +179,7 @@ color: #333333;
   #main-container{
     width: 960px;
     height: 866px;
-    border: 1px solid lime;
+    /* border: 1px solid lime; */
   }
   
   #main-container aside {
@@ -188,14 +188,14 @@ color: #333333;
     height: 766px;
     /* padding: 20px; */
     float: left;
-    border: 2px solid black;
+    /* border: 2px solid black; */
   }
   
   #main-container main {
     float: right;
     width: 715px;
     height:766px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     
   }
 
@@ -209,7 +209,7 @@ color: #333333;
     height: 678px;
     justify-content: space-between;
      */
-    border: 1px solid lime;
+    /* border: 1px solid lime; */
   }
   
   .person-card-container {
